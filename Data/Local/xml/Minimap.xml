@@ -1,0 +1,603 @@
+<?xml version="1.0"?>
+<MiniMap>
+
+<!-- Lorencia -->
+
+<NPC IDMAP="0" Type="13" Text="Trainer" TextInfo="Beast Trainer" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="122" PosY="110" />
+<NPC IDMAP="0" Type="1" Text="Wandering Merchant Alex" TextInfo="Sell Weapons" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="62" PosY="130" />
+<NPC IDMAP="0" Type="1" Text="Wandering Merchant" TextInfo="DL / RF Items" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="183" PosY="137" />
+<NPC IDMAP="0" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="127" PosY="86" />
+<NPC IDMAP="0" Type="1" Text="Hanzo the Blacksmith" TextInfo="Sell Warrior Items" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="116" PosY="141" />
+<NPC IDMAP="0" Type="6" Text="Lumen the Barmaid" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="123" PosY="135" />
+<NPC IDMAP="0" Type="1" Text="Pasi the Mage" TextInfo="Sell Wizard Items" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="118" PosY="113" />
+<NPC IDMAP="0" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="96" PosY="129" />
+<NPC IDMAP="0" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="132" PosY="165" />
+<NPC IDMAP="0" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="132" PosY="90" />
+<NPC IDMAP="0" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="170" PosY="129" />
+<NPC IDMAP="0" Type="16" Text="Gens Duprian Steward" TextInfo="Gens System" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="141" PosY="145" />
+<NPC IDMAP="0" Type="16" Text="Gens Vanert Steward" TextInfo="Gens System" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="151" PosY="145" />
+<NPC IDMAP="0" Type="9" Text="Lahap" TextInfo="Combine / Disamble Jewel" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="130" PosY="124" />
+<NPC IDMAP="0" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="130" PosY="129" />
+<NPC IDMAP="0" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="130" PosY="134" />
+<NPC IDMAP="0" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="76" PosY="156" />
+<NPC IDMAP="0" Type="15" Text="Deruvish"    TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="126" PosY="145" />
+<NPC IDMAP="0" Type="10" Text="Lesnar Lorencia" TextInfo="Quest System Daily"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="149" PosY="140" />
+<NPC IDMAP="0" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="147" PosY="145" />
+<NPC IDMAP="0" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="146" PosY="110" />
+
+
+
+<NPC IDMAP="0" Type="8" Text="Spider" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="180" PosY="125" />
+<NPC IDMAP="0" Type="8" Text="Budge Dragon" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="190" PosY="128" />
+<NPC IDMAP="0" Type="8" Text="Spider" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="176" PosY="153" />
+<NPC IDMAP="0" Type="8" Text="Skeleton" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="158" PosY="172" />
+<NPC IDMAP="0" Type="8" Text="LIch" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="130" PosY="188" />
+<NPC IDMAP="0" Type="8" Text="Skeleton" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="153" PosY="211" />
+<NPC IDMAP="0" Type="8" Text="Skeleton" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="120" PosY="208" />
+<NPC IDMAP="0" Type="8" Text="Hound" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="81" PosY="131" />
+<NPC IDMAP="0" Type="8" Text="Elite Bull Fighter" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="70" PosY="110" />
+<NPC IDMAP="0" Type="8" Text="Hound" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="50" PosY="127" />
+<NPC IDMAP="0" Type="8" Text="Giant" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="44" PosY="48" />
+<NPC IDMAP="0" Type="8" Text="Giant" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="20" PosY="19" />
+<NPC IDMAP="0" Type="8" Text="Giant" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="19" PosY="43" />
+<NPC IDMAP="0" Type="8" Text="Bull Fighter" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="139" PosY="74" />
+<NPC IDMAP="0" Type="8" Text="Bull Fighter" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="170" PosY="58" />
+
+<!-- Dungeon -->
+
+<NPC IDMAP="1" Type="8" Text="Skeleton" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="95" PosY="212" />
+<NPC IDMAP="1" Type="8" Text="Skeleton" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="95" PosY="234" />
+<NPC IDMAP="1" Type="8" Text="Larva" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="76" PosY="206" />
+<NPC IDMAP="1" Type="8" Text="Ghost" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="228" PosY="105" />
+<NPC IDMAP="1" Type="8" Text="Skeleton Archer" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="175" PosY="120" />
+<NPC IDMAP="1" Type="8" Text="Hell Hound" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="154" PosY="117" />
+<NPC IDMAP="1" Type="8" Text="Poison Bull Fighter" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="5" PosY="53" />
+<NPC IDMAP="1" Type="8" Text="Poison Bull Fighter" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="39" PosY="53" />
+<NPC IDMAP="1" Type="8" Text="Thunder Lich" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="17" PosY="88" />
+<NPC IDMAP="1" Type="8" Text="Dark Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="38" PosY="114" />
+<NPC IDMAP="1" Type="8" Text="Dark Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="6" PosY="118" />
+
+
+<!-- Devias -->
+
+<NPC IDMAP="2" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="215" PosY="61" />
+<NPC IDMAP="2" Type="20" Text="Messenger of Archangel" TextInfo="Blood Castle" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="209" PosY="30" />
+<NPC IDMAP="2" Type="14" Text="Sebina the Priest" TextInfo="Quest Class 2" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="183" PosY="32" />
+<NPC IDMAP="2" Type="6" Text="Caren the Barmaid" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="226" PosY="25" />
+<NPC IDMAP="2" Type="1" Text="Wizard Izabel" TextInfo="Sell Weapons" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="225" PosY="41" />
+<NPC IDMAP="2" Type="1" Text="Weapons Merchant Zienna" TextInfo="Sell Weapons" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="186" PosY="47" />
+<NPC IDMAP="2" Type="11" Text="Royal Guard Captain Lorence" TextInfo="Create Guild" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="215" PosY="45" />
+<NPC IDMAP="2" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="219" PosY="73" />
+<NPC IDMAP="2" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="172" PosY="44" />
+<NPC IDMAP="2" Type="6" Text="Natasha the Firecracker Merchan" TextInfo="Firecracker" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="32" PosY="31" />
+<NPC IDMAP="2" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="218" PosY="63" />
+
+
+
+<NPC IDMAP="2" Type="8" Text="Worm" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="199" PosY="82" />
+<NPC IDMAP="2" Type="8" Text="Worm" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="234" PosY="82" />
+<NPC IDMAP="2" Type="8" Text="Yeti" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="59" PosY="12" />
+<NPC IDMAP="2" Type="8" Text="Assassin" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="64" PosY="31" />
+<NPC IDMAP="2" Type="8" Text="Elite Yeti" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="214" PosY="213" />
+<NPC IDMAP="2" Type="8" Text="Elite Yeti" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="235" PosY="212" />
+<NPC IDMAP="2" Type="8" Text="Elite Yeti" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="281" />
+<NPC IDMAP="2" Type="8" Text="Elite Yeti" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="194" PosY="232" />
+<NPC IDMAP="2" Type="8" Text="Hommerd" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="217" PosY="161" />
+<NPC IDMAP="2" Type="8" Text="Hommerd" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="190" PosY="141" />
+<NPC IDMAP="2" Type="8" Text="Ice Monster" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="105" PosY="188" />
+<NPC IDMAP="2" Type="8" Text="Ice Queen" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="6" PosY="184" />
+
+
+<!-- Noria -->
+
+<NPC IDMAP="3" Type="20" Text="Charon" TextInfo="Devil Square" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="171" PosY="104" />
+<NPC IDMAP="3" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="166" PosY="99" />
+<NPC IDMAP="3" Type="6" Text="Elf Lala" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="173" PosY="125" />
+<NPC IDMAP="3" Type="1" Text="Eo the Craftsman" TextInfo="Sell Elf Items" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="195" PosY="124" />
+<NPC IDMAP="3" Type="18" Text="Chaos Goblin" TextInfo="Chaos Mix Item" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="180" PosY="103" />
+<NPC IDMAP="3" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="167" PosY="118" />
+<NPC IDMAP="3" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="166" PosY="85" />
+<NPC IDMAP="3" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="201" PosY="129" />
+<NPC IDMAP="3" Type="15" Text="Deruvish"              TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="183" PosY="126" />
+<NPC IDMAP="3" Type="10" Text="Lesnar Noria"          TextInfo="Quest System Daily"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="187" PosY="104" />
+<NPC IDMAP="3" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="172" PosY="96" />
+
+
+
+
+<NPC IDMAP="3" Type="8" Text="Chain Scorpion(A)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="150" PosY="123" />
+<NPC IDMAP="3" Type="8" Text="Goblin (B)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="140" PosY="96" />
+<NPC IDMAP="3" Type="8" Text="Hunter (C)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="143" PosY="70" />
+<NPC IDMAP="3" Type="8" Text="Spider (D)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="181" PosY="63" />
+<NPC IDMAP="3" Type="8" Text="Elite Goblin (E)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="225" PosY="105" />
+<NPC IDMAP="3" Type="8" Text="Beetle Monster" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="217" PosY="128" />
+<NPC IDMAP="3" Type="8" Text="Forest Monster" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="206" PosY="155" />
+<NPC IDMAP="3" Type="8" Text="Agon" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="175" PosY="158" />
+<NPC IDMAP="3" Type="8" Text="Stone Golem" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="127" PosY="165" />
+
+<!-- Losttower -->
+
+<NPC IDMAP="4" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="203" PosY="77" />
+<NPC IDMAP="4" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="206" PosY="82" />
+<NPC IDMAP="4" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="202" PosY="73" />
+
+
+<NPC IDMAP="4" Type="8" Text="Shadow" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="190" PosY="96" />
+<NPC IDMAP="4" Type="8" Text="Shadow" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="193" PosY="110" />
+<NPC IDMAP="4" Type="8" Text="Poison Shadow" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="194" PosY="129" />
+<NPC IDMAP="4" Type="8" Text="Poison Shadow" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="47" />
+<NPC IDMAP="4" Type="8" Text="Poison Shadow" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="35" />
+<NPC IDMAP="4" Type="8" Text="Cursed Wizard" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="94" PosY="167" />
+<NPC IDMAP="4" Type="8" Text="Cursed Wizard" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="105" PosY="167" />
+<NPC IDMAP="4" Type="8" Text="Cursed Wizard" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="83" PosY="243" />
+<NPC IDMAP="4" Type="8" Text="Death Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="126" PosY="23" />
+<NPC IDMAP="4" Type="8" Text="Death Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="96" PosY="23" />
+<NPC IDMAP="4" Type="8" Text="Death Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="81" PosY="5" />
+<NPC IDMAP="4" Type="8" Text="Death Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84" PosY="55" />
+<NPC IDMAP="4" Type="8" Text="Devil (a)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="51" PosY="23" />
+<NPC IDMAP="4" Type="8" Text="Death Gorgon (b)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="51" PosY="6" />
+<NPC IDMAP="4" Type="8" Text="Death Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="11" PosY="8" />
+<NPC IDMAP="4" Type="8" Text="Devil" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="51" PosY="89" />
+<NPC IDMAP="4" Type="8" Text="Death Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="27" PosY="97" />
+<NPC IDMAP="4" Type="8" Text="Death Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="12" PosY="100" />
+<NPC IDMAP="4" Type="8" Text="Death Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="51" PosY="109" />
+<NPC IDMAP="4" Type="8" Text="Death Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="26" PosY="120" />
+<NPC IDMAP="4" Type="8" Text="Death Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="49" PosY="131" />
+<NPC IDMAP="4" Type="8" Text="Death Gorgon" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="14" PosY="165" />
+
+<!-- Atlans -->
+
+<NPC IDMAP="7" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="15" PosY="12" />
+<NPC IDMAP="7" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="16" PosY="16" />
+<NPC IDMAP="7" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="24" PosY="25" />
+
+<NPC IDMAP="7" Type="8" Text="Bahamut" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="46" PosY="7" />
+<NPC IDMAP="7" Type="8" Text="Bahamut" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="60" PosY="10" />
+<NPC IDMAP="7" Type="8" Text="Bahamut" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="77" PosY="16" />
+<NPC IDMAP="7" Type="8" Text="Vepar" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="64" PosY="50" />
+<NPC IDMAP="7" Type="8" Text="Bahamut" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="39" PosY="35" />
+<NPC IDMAP="7" Type="8" Text="Bahamut" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="16" PosY="59" />
+<NPC IDMAP="7" Type="8" Text="Vepar" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="45" PosY="64" />
+<NPC IDMAP="7" Type="8" Text="Valkyrie" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="18" PosY="119" />
+<NPC IDMAP="7" Type="8" Text="Valkyrie" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="24" PosY="104" />
+<NPC IDMAP="7" Type="8" Text="Valkyrie" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="66" PosY="83" />
+<NPC IDMAP="7" Type="8" Text="Great Bahamut" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="238" PosY="15" />
+<NPC IDMAP="7" Type="8" Text="Great Bahamut" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="237" PosY="48" />
+<NPC IDMAP="7" Type="8" Text="Great Bahamut" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="164" PosY="62" />
+<NPC IDMAP="7" Type="8" Text="Silver Valkyrie" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="228" PosY="199" />
+<NPC IDMAP="7" Type="8" Text="Lizard King" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="207" PosY="182" />
+<NPC IDMAP="7" Type="8" Text="Silver Valkyrie" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="21" PosY="161" />
+<NPC IDMAP="7" Type="8" Text="Silver Valkyrie" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="118" PosY="141" />
+<NPC IDMAP="7" Type="8" Text="Lizard King" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="113" PosY="180" />
+<NPC IDMAP="7" Type="8" Text="Lizard King" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="170" PosY="138" />
+<NPC IDMAP="7" Type="8" Text="Silver Valkyrie" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="42" PosY="222" />
+<NPC IDMAP="7" Type="8" Text="Silver Valkyrie" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="23" PosY="225" />
+
+<!-- Tarkan -->
+
+<NPC IDMAP="8" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="205" PosY="62" />
+<NPC IDMAP="8" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="191" PosY="73" />
+<NPC IDMAP="8" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="184" PosY="61" />
+
+
+<NPC IDMAP="8" Type="8" Text="Mutant" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="186" PosY="112" />
+<NPC IDMAP="8" Type="8" Text="Mutant" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="149" PosY="151" />
+<NPC IDMAP="8" Type="8" Text="Mutant" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="147" PosY="118" />
+<NPC IDMAP="8" Type="8" Text="Mutant (a)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="125" PosY="93" />
+<NPC IDMAP="8" Type="8" Text="Mutant (b)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="153" PosY="38" />
+<NPC IDMAP="8" Type="8" Text="Bloody wolf (c)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="130" PosY="14" />
+<NPC IDMAP="8" Type="8" Text="Bloody wolf" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="89" PosY="24" />
+<NPC IDMAP="8" Type="8" Text="Bloody wolf" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="100" PosY="55" />
+<NPC IDMAP="8" Type="8" Text="Iron Wheel" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="63" PosY="57" />
+<NPC IDMAP="8" Type="8" Text="Iron Wheel" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="31" PosY="57" />
+<NPC IDMAP="8" Type="8" Text="Iron Wheel" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="14" PosY="88" />
+<NPC IDMAP="8" Type="8" Text="Iron Wheel" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="38" PosY="79" />
+<NPC IDMAP="8" Type="8" Text="Iron Wheel" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="47" PosY="96" />
+<NPC IDMAP="8" Type="8" Text="Tantalos" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="103" PosY="118" />
+<NPC IDMAP="8" Type="8" Text="Tantalos" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="121" PosY="135" />
+<NPC IDMAP="8" Type="8" Text="Tantalos" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="18" PosY="129" />
+<NPC IDMAP="8" Type="8" Text="Tantalos" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="31" PosY="168" />
+<NPC IDMAP="8" Type="8" Text="Beam Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="104" PosY="166" />
+<NPC IDMAP="8" Type="8" Text="Beam Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="83" PosY="195" />
+<NPC IDMAP="8" Type="8" Text="Beam Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="115" PosY="204" />
+<NPC IDMAP="8" Type="8" Text="Beam Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="173" PosY="204" />
+<NPC IDMAP="8" Type="8" Text="Beam Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="157" PosY="161" />
+<NPC IDMAP="8" Type="22" Text="Death Beam Knight"  TextInfo="Quest 3 Monster Boss"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="157" PosY="211" />
+
+
+
+<!-- Icarus -->
+
+<NPC IDMAP="10" Type="8" Text="Alquamos" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="10" PosY="37" />
+<NPC IDMAP="10" Type="8" Text="Alquamos" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="69" PosY="27" />
+<NPC IDMAP="10" Type="8" Text="Alpha Crust" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="70" PosY="44" />
+<NPC IDMAP="10" Type="8" Text="Alpha Crust" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="90" PosY="35" />
+<NPC IDMAP="10" Type="8" Text="Alpha Crust" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="92" PosY="65" />
+<NPC IDMAP="10" Type="8" Text="Queen Rainier" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="82" PosY="81" />
+<NPC IDMAP="10" Type="8" Text="Queen Rainier" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="60" PosY="78" />
+<NPC IDMAP="10" Type="8" Text="Drakan" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="24" PosY="63" />
+<NPC IDMAP="10" Type="8" Text="Drakan" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="38" PosY="81" />
+<NPC IDMAP="10" Type="8" Text="Alpha Crust" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="47" PosY="119" />
+<NPC IDMAP="10" Type="8" Text="Phantom Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="54" PosY="156" />
+<NPC IDMAP="10" Type="8" Text="Great Drakan" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="54" PosY="184" />
+<NPC IDMAP="10" Type="22" Text="Phoenix of Darkness"  TextInfo="Quest 3 Monster Boss"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="40" PosY="227" />
+
+
+
+<!-- Aida -->
+
+<NPC IDMAP="33" Type="9" Text="Osbourne" TextInfo="Refine System" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="78" PosY="13" />
+<NPC IDMAP="33" Type="9" Text="Jerridon" TextInfo="Harmony System" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="86" PosY="13" />
+<NPC IDMAP="33" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="82" PosY="15" />
+<NPC IDMAP="33" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="89" PosY="13" />
+<NPC IDMAP="33" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="83" PosY="15" />
+
+
+<NPC IDMAP="33" Type="8" Text="Death Tree" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="123" PosY="24" />
+<NPC IDMAP="33" Type="8" Text="Death Tree" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="147" PosY="33" />
+<NPC IDMAP="33" Type="8" Text="Death Tree" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="164" PosY="78" />
+<NPC IDMAP="33" Type="8" Text="Death Tree" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="171" PosY="12" />
+<NPC IDMAP="33" Type="8" Text="Forest Orc" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="225" PosY="9" />
+<NPC IDMAP="33" Type="8" Text="Forest Orc" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="211" PosY="31" />
+<NPC IDMAP="33" Type="8" Text="Forest Orc" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="224" PosY="57" />
+<NPC IDMAP="33" Type="8" Text="Death Tree" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="228" PosY="29" />
+<NPC IDMAP="33" Type="8" Text="Death Rider" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="182" PosY="92" />
+<NPC IDMAP="33" Type="8" Text="Blue Golem" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="190" PosY="146" />
+<NPC IDMAP="33" Type="8" Text="Blue Golem" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="173" PosY="117" />
+<NPC IDMAP="33" Type="8" Text="Blue Golem" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="92" PosY="165" />
+<NPC IDMAP="33" Type="8" Text="Blue Golem" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="109" PosY="95" />
+<NPC IDMAP="33" Type="8" Text="Blue Golem" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="142" PosY="87" />
+<NPC IDMAP="33" Type="8" Text="Bloody Golem" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="154" PosY="228" />
+<NPC IDMAP="33" Type="8" Text="Bloody Golem" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="129" PosY="217" />
+<NPC IDMAP="33" Type="8" Text="Bloody Golem" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="68" PosY="217" />
+<NPC IDMAP="33" Type="8" Text="Bloody Golem" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="34" PosY="217" />
+<NPC IDMAP="33" Type="8" Text="Bloody Witch Queen" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="19" PosY="180" />
+<NPC IDMAP="33" Type="8" Text="Bloody Witch Queen" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="43" PosY="118" />
+<NPC IDMAP="33" Type="8" Text="Bloody Witch Queen" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="26" PosY="40" />
+<NPC IDMAP="33" Type="22" Text="Hell Maine"  TextInfo="Quest 3 Monster Boss"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="90" PosY="151" />
+<NPC IDMAP="33" Type="22" Text="Hell Maine"  TextInfo="Quest 3 Monster Boss"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="119" PosY="107" />
+
+
+<!-- Crywolf -->
+
+
+<NPC IDMAP="34" Type="13" Text="Trainer" TextInfo="Beast Trainer" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="135" PosY="47" />
+<NPC IDMAP="34" Type="9" Text="Lahap" TextInfo="Combine / Disamble Jewel" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="96" PosY="25" />
+<NPC IDMAP="34" Type="1" Text="Hanzo the Blacksmith" TextInfo="Sell Warrior Items" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="145" PosY="14" />
+<NPC IDMAP="34" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="113" PosY="56" />
+<NPC IDMAP="34" Type="15" Text="Guardsman" TextInfo="Quest System" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="118" PosY="11" />
+<NPC IDMAP="34" Type="14" Text="Apostle Devin" TextInfo="Quest Class 3" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="228" PosY="48" />
+<NPC IDMAP="34" Type="17" Text="Werewolf Quarel" TextInfo="Balgass Barrack Entrance" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="62" PosY="239" />
+<NPC IDMAP="34" Type="1" Text="Wandering Merchant Martin" TextInfo="Sell Weapons" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="99" PosY="40" />
+
+<!-- Kanturu -->
+
+<NPC IDMAP="37" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="33" PosY="215" />
+<NPC IDMAP="37" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="27" PosY="216" />
+<NPC IDMAP="37" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="35" PosY="216" />
+
+
+<NPC IDMAP="37" Type="8" Text="Splinter Wolf" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="37" PosY="230" />
+<NPC IDMAP="37" Type="8" Text="Splinter Wolf" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84" PosY="231" />
+<NPC IDMAP="37" Type="8" Text="Splinter Wolf" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="138" PosY="219" />
+<NPC IDMAP="37" Type="8" Text="Splinter Wolf" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="153" PosY="192" />
+<NPC IDMAP="37" Type="8" Text="Splinter Wolf" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="179" PosY="202" />
+<NPC IDMAP="37" Type="8" Text="Splinter Wolf" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="198" PosY="185" />
+<NPC IDMAP="37" Type="8" Text="Satyros" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="167" PosY="157" />
+<NPC IDMAP="37" Type="8" Text="Satyros" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="230" PosY="126" />
+<NPC IDMAP="37" Type="8" Text="Satyros" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="214" PosY="38" />
+<NPC IDMAP="37" Type="8" Text="Satyros" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="222" PosY="78" />
+<NPC IDMAP="37" Type="8" Text="Blade Hunter" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="178" PosY="20" />
+<NPC IDMAP="37" Type="8" Text="Blade Hunter" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="151" PosY="53" />
+<NPC IDMAP="37" Type="8" Text="Blade Hunter" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="135" PosY="40" />
+<NPC IDMAP="37" Type="8" Text="Genocider" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="64" PosY="89" />
+<NPC IDMAP="37" Type="8" Text="Genocider" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="41" PosY="69" />
+<NPC IDMAP="37" Type="8" Text="Gigantis" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="73" PosY="20" />
+<NPC IDMAP="37" Type="8" Text="Berserker Warrior" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="53" PosY="131" />
+<NPC IDMAP="37" Type="8" Text="Berserker Warrior" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84" PosY="119" />
+<NPC IDMAP="37" Type="8" Text="Berserker Warrior" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="127" PosY="123" />
+<NPC IDMAP="37" Type="8" Text="Berserker Warrior" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="110" PosY="95" />
+<NPC IDMAP="37" Type="8" Text="Berserker Warrior" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="170" PosY="106" />
+<NPC IDMAP="37" Type="8" Text="Berserker Warrior" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="87" PosY="160" />
+<NPC IDMAP="37" Type="8" Text="Berserker Warrior" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="123" PosY="159" />
+
+<!-- Kanturu Remain -->
+
+
+<NPC IDMAP="38" Type="8" Text="Twin Tale" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="97" PosY="76" />
+<NPC IDMAP="38" Type="8" Text="Twin Tale" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="122" PosY="75" />
+<NPC IDMAP="38" Type="8" Text="Twin Tale" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="135" PosY="94" />
+<NPC IDMAP="38" Type="8" Text="Twin Tale" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="175" PosY="92" />
+<NPC IDMAP="38" Type="8" Text="Persona" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="179" PosY="137" />
+<NPC IDMAP="38" Type="8" Text="Persona" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="134" PosY="146" />
+<NPC IDMAP="38" Type="8" Text="Persona" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="117" PosY="128" />
+<NPC IDMAP="38" Type="8" Text="Dreadfear" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="105" PosY="144" />
+
+<!-- Barracks -->
+
+<NPC IDMAP="41" Type="17" Text="Gatekeeper" TextInfo="Refuge Entrance" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="119" PosY="168" />
+
+
+<!-- Elbeland -->
+
+<NPC IDMAP="51" Type="10" Text="Lesnar Elbeland" TextInfo="Quest System Daily"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="50" PosY="215" />
+<NPC IDMAP="51" Type="9" Text="Lahap" TextInfo="Combine / Disamble Jewel" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="37" PosY="241" />
+<NPC IDMAP="51" Type="6" Text="Silvia" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="44" PosY="229" />
+<NPC IDMAP="51" Type="1" Text="Rhea" TextInfo="Sell Weapons" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="29" PosY="236" />
+<NPC IDMAP="51" Type="1" Text="Marce" TextInfo="Sell Summoner Items" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="36" PosY="219" />
+<NPC IDMAP="51" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="43" PosY="191" />
+<NPC IDMAP="51" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="57" PosY="232" />
+<NPC IDMAP="51" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="73" PosY="220" />
+<NPC IDMAP="51" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="50" PosY="229" />
+<NPC IDMAP="51" Type="9" Text="Seed Master" TextInfo="Elemental Socketing" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="46" PosY="243" />
+<NPC IDMAP="51" Type="9" Text="Seed Researcher" TextInfo="Element Refinement" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="50" PosY="243" />
+
+
+<NPC IDMAP="51" Type="8" Text="Strange Rabbit (a)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="46" PosY="152" />
+<NPC IDMAP="51" Type="8" Text="Strange Rabbit" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="31" PosY="132" />
+<NPC IDMAP="51" Type="8" Text="Polluted Butterfly" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="70" PosY="146" />
+<NPC IDMAP="51" Type="8" Text="Polluted Butterfly" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="100" PosY="188" />
+<NPC IDMAP="51" Type="8" Text="Spider" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="108" PosY="213" />
+<NPC IDMAP="51" Type="8" Text="Strange Rabbit" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="122" PosY="225" />
+<NPC IDMAP="51" Type="8" Text="Polluted Butterfly (b)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="133" PosY="190" />
+<NPC IDMAP="51" Type="8" Text="Hideous Rabbit (b)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="131" PosY="195" />
+<NPC IDMAP="51" Type="8" Text="Polluted Butterfly" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="100" PosY="64" />
+<NPC IDMAP="51" Type="8" Text="Werewolf" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="80" PosY="38" />
+<NPC IDMAP="51" Type="8" Text="Cursed Lich" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="126" PosY="123" />
+<NPC IDMAP="51" Type="8" Text="Totem Golem" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="192" PosY="145" />
+<NPC IDMAP="51" Type="8" Text="Grizzly" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="188" PosY="88" />
+<NPC IDMAP="51" Type="8" Text="Grizzly" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="168" PosY="86" />
+<NPC IDMAP="51" Type="8" Text="Grizzly" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="155" PosY="53" />
+<NPC IDMAP="51" Type="8" Text="Captain Grizzly" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="46" />
+<NPC IDMAP="51" Type="8" Text="Captain Grizzly" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="203" PosY="21" />
+<NPC IDMAP="51" Type="8" Text="Captain Grizzly (c)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="169" PosY="27" />
+<NPC IDMAP="51" Type="8" Text="Grizzly (c)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="172" PosY="24" />
+
+<!-- Raklion -->
+
+<NPC IDMAP="57" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="213" PosY="209" />
+<NPC IDMAP="57" Type="4" Text="Safety Guardian" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="211" PosY="209" />
+
+
+<NPC IDMAP="57" Type="8" Text="Ice Walker" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="169" PosY="210" />
+<NPC IDMAP="57" Type="8" Text="Ice Walker" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="156" PosY="179" />
+<NPC IDMAP="57" Type="8" Text="Giant Mammoth" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="142" PosY="197" />
+<NPC IDMAP="57" Type="8" Text="Ice Giant (a)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="86" PosY="212" />
+<NPC IDMAP="57" Type="8" Text="Ice Giant" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="111" PosY="135" />
+<NPC IDMAP="57" Type="8" Text="Ice Giant (b)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="140" PosY="133" />
+<NPC IDMAP="57" Type="8" Text="Ice Giant" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="207" PosY="150" />
+<NPC IDMAP="57" Type="8" Text="Coolutin" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="188" PosY="102" />
+<NPC IDMAP="57" Type="8" Text="Coolutin" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="172" PosY="56" />
+<NPC IDMAP="57" Type="8" Text="Dark Mammoth" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="124" PosY="87" />
+<NPC IDMAP="57" Type="8" Text="Dark Mammoth" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="59" PosY="134" />
+<NPC IDMAP="57" Type="8" Text="Dark Giant" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="29" PosY="148" />
+<NPC IDMAP="57" Type="8" Text="Iron Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="20" PosY="204" />
+<NPC IDMAP="57" Type="8" Text="Iron Knight (c)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="29" PosY="220" />
+<NPC IDMAP="57" Type="8" Text="Dark Coolutin" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="25" PosY="94" />
+<NPC IDMAP="57" Type="8" Text="Dark Mammoth" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="66" PosY="80" />
+<NPC IDMAP="57" Type="8" Text="Dark Iron Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="27" PosY="44" />
+<NPC IDMAP="57" Type="8" Text="Dark Iron Knight" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="60" PosY="26" />
+<NPC IDMAP="57" Type="8" Text="Dark Iron Knight (d)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="80" PosY="24" />
+<NPC IDMAP="57" Type="8" Text="Dark Iron Knight (e)" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="120" PosY="32" />
+
+<!-- Karutan -->
+
+
+<NPC IDMAP="80" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="121" PosY="102" />
+<NPC IDMAP="80" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="117" PosY="126" />
+<NPC IDMAP="80" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="123" PosY="132" />
+<NPC IDMAP="80" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="122" PosY="96" />
+<NPC IDMAP="80" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="157" PosY="127" />
+
+
+<NPC IDMAP="80" Type="8" Text="Bone Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="155" PosY="153" />
+<NPC IDMAP="80" Type="8" Text="Bone Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="180" PosY="176" />
+<NPC IDMAP="80" Type="8" Text="Bone Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="213" PosY="166" />
+<NPC IDMAP="80" Type="8" Text="Orcus" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="96" PosY="120" />
+<NPC IDMAP="80" Type="8" Text="Orcus" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="58" PosY="120" />
+<NPC IDMAP="80" Type="8" Text="Orcus" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="88" PosY="66" />
+<NPC IDMAP="80" Type="8" Text="Crypta" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="30" PosY="62" />
+<NPC IDMAP="80" Type="8" Text="Crypta" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="35" PosY="84" />
+<NPC IDMAP="80" Type="8" Text="Crypta" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="48" PosY="150" />
+<NPC IDMAP="80" Type="8" Text="Bone Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="90" PosY="163" />
+<NPC IDMAP="80" Type="8" Text="Bone Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="97" PosY="183" />
+<NPC IDMAP="80" Type="8" Text="Venomous Chain Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="127" PosY="60" />
+<NPC IDMAP="80" Type="8" Text="Venomous Chain Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="163" PosY="44" />
+<NPC IDMAP="80" Type="8" Text="Venomous Chain Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="178" PosY="34" />
+<NPC IDMAP="80" Type="8" Text="Venomous Chain Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="210" PosY="30" />
+<NPC IDMAP="80" Type="8" Text="Venomous Chain Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="167" PosY="83" />
+<NPC IDMAP="80" Type="8" Text="Venomous Chain Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="210" PosY="83" />
+<NPC IDMAP="80" Type="8" Text="Venomous Chain Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="225" PosY="95" />
+<NPC IDMAP="80" Type="8" Text="Venomous Chain Scorpion" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="206" PosY="107" />
+
+<!-- Karutan 2 -->
+
+<NPC IDMAP="81" Type="8" Text="Condra" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="179" PosY="40" />
+<NPC IDMAP="81" Type="8" Text="Condra" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="202" PosY="40" />
+<NPC IDMAP="81" Type="8" Text="Condra" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="192" PosY="54" />
+<NPC IDMAP="81" Type="8" Text="Condra" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="206" PosY="122" />
+<NPC IDMAP="81" Type="8" Text="Narcondra" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="124" PosY="43" />
+<NPC IDMAP="81" Type="8" Text="Narcondra" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="73" PosY="39" />
+<NPC IDMAP="81" Type="8" Text="Narcondra" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="85" PosY="61" />
+<NPC IDMAP="81" Type="8" Text="Narcondra" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="94" PosY="73" />
+<NPC IDMAP="81" Type="8" Text="Narcondra" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="55" PosY="133" />
+<NPC IDMAP="81" Type="8" Text="Gollock" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="58" PosY="170" />
+<NPC IDMAP="81" Type="8" Text="Gollock" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="120" PosY="79" />
+<NPC IDMAP="81" Type="8" Text="Gollock" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="134" PosY="106" />
+<NPC IDMAP="81" Type="8" Text="Gollock" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="132" PosY="152" />
+
+
+   <!-- <NPC IDMAP="104" Type="10" Text="Lesnar Lorencia"     TextInfo="Quest System Daily"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="13" PosY="239" />
+    <NPC IDMAP="104" Type="6"  Text="Liaman"              TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="24" PosY="239" />
+    <NPC IDMAP="104" Type="4"  Text="Bas"                 TextInfo="Sand Holds Items"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="10" PosY="235" />
+
+
+    <NPC IDMAP="138" Type="18" Text="Chaos Mix"           TextInfo="Chaos Mix Item"          ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="128" PosY="168" />
+    <NPC IDMAP="138" Type="25" Text="Livain"              TextInfo="Quest System Main"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="143" PosY="143" />
+    <NPC IDMAP="138" Type="4"  Text="Bas"                 TextInfo="Sand Holds Items"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="112" PosY="135" />
+    <NPC IDMAP="138" Type="6"  Text="Liaman"              TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="121" PosY="143" />
+    <NPC IDMAP="138" Type="1"  Text="Pasi"                TextInfo="Sell Wizard Items"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="109" PosY="120" />
+    <NPC IDMAP="138" Type="1"  Text="Alex"                TextInfo="Sell Lord Items"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="135" PosY="112" />
+    <NPC IDMAP="138" Type="5"  Text="Hanzo"               TextInfo="Sell Warrior Items"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="142" PosY="132" />
+    <NPC IDMAP="138" Type="15" Text="Deruvish"            TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="128" PosY="85" />
+    <NPC IDMAP="138" Type="8"  Text="Spider"              TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="199" PosY="119" />
+    <NPC IDMAP="138" Type="8"  Text="Budge Dragon"        TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="149" />
+    <NPC IDMAP="138" Type="8"  Text="Hound"               TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="183" PosY="178" />
+    <NPC IDMAP="138" Type="8"  Text="Elite Bull Fighter"  TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="214" PosY="184" />
+    <NPC IDMAP="138" Type="8"  Text="Hell Hound"          TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="193" PosY="212" />
+    <NPC IDMAP="138" Type="8"  Text="Lich"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="227" PosY="236" />
+    <NPC IDMAP="138" Type="8"  Text="Giant"               TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="234" PosY="211" />
+    <NPC IDMAP="138" Type="8"  Text="Poison Bull Fighter" TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="235" PosY="164" />
+    <NPC IDMAP="138" Type="8"  Text="Thunder Lich"        TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="231" PosY="122" />
+    <NPC IDMAP="138" Type="8"  Text="Budge Dragon"        TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="215" PosY="81" />
+    <NPC IDMAP="138" Type="8"  Text="Spider"              TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="238" PosY="80" />
+    <NPC IDMAP="138" Type="8"  Text="Hound"               TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="196" PosY="97" />
+    <NPC IDMAP="138" Type="8"  Text="Bull Fighter"        TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="178" PosY="69" />
+    <NPC IDMAP="138" Type="8"  Text="Elite Bull Fighter"  TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="177" PosY="38" />
+    <NPC IDMAP="138" Type="1"  Text="Marseille"           TextInfo="Sell Summoner Items"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="205" PosY="48" />
+    <NPC IDMAP="138" Type="5"  Text="Zienna"              TextInfo="Sell Gladiator Items"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="201" PosY="42" />
+    <NPC IDMAP="138" Type="1"  Text="Natasha"             TextInfo="Sell Rage Fighter Items" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="216" PosY="49" />
+    <NPC IDMAP="138" Type="6"  Text="Elf LaLa"            TextInfo="Sell Elf Items"          ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="211" PosY="33" />
+    <NPC IDMAP="138" Type="5"  Text="Ellio"               TextInfo="Sell Elf Items"          ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="220" PosY="43" />
+    <NPC IDMAP="138" Type="4"  Text="Bas"                 TextInfo="Sand Holds Items"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="220" PosY="40" />
+    <NPC IDMAP="138" Type="2"  Text="Holy Maiden’s Soul"  TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="237" PosY="19" />
+    <NPC IDMAP="138" Type="2"  Text="Holy Maiden’s Soul"  TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="233" PosY="15" />
+    <NPC IDMAP="138" Type="8"  Text="Hell Hound"          TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="172" PosY="16" />
+    <NPC IDMAP="138" Type="8"  Text="Lich"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="140" PosY="34" />
+    <NPC IDMAP="138" Type="8"  Text="Giant"               TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="110" PosY="53" />
+    <NPC IDMAP="138" Type="8"  Text="Thunder Lich"        TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="85"  PosY="36" />
+    <NPC IDMAP="138" Type="8"  Text="Dark Knight"         TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="45"  PosY="39" />
+    <NPC IDMAP="138" Type="8"  Text="Larva"               TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="30"  PosY="21" />
+    <NPC IDMAP="138" Type="8"  Text="Hound"               TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="20"  PosY="51" />
+    <NPC IDMAP="138" Type="8"  Text="Hell Hound"          TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="19"  PosY="97" />
+    <NPC IDMAP="138" Type="8"  Text="Poison Bull Fighter" TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="15"  PosY="123" />
+    <NPC IDMAP="138" Type="8"  Text="Budge Dragon"        TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="19"  PosY="182" />
+    <NPC IDMAP="138" Type="8"  Text="Spider"              TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="55"  PosY="175" />
+    <NPC IDMAP="138" Type="1"  Text="Pasi"                TextInfo="Sell Wizard Items"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="43"  PosY="220" />
+    <NPC IDMAP="138" Type="5"  Text="Hanzo"               TextInfo="Sell Warrior Items"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="49"  PosY="216" />
+    <NPC IDMAP="138" Type="6"  Text="Liaman"              TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="48"  PosY="204" />
+    <NPC IDMAP="138" Type="1"  Text="Alex"                TextInfo="Sell Lord Items"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="36"  PosY="202" />
+    <NPC IDMAP="138" Type="4"  Text="Bas"                 TextInfo="Sand Holds Items"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="32"  PosY="206" />
+    <NPC IDMAP="138" Type="6"  Text="Amy"                 TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="32"  PosY="212" />
+    <NPC IDMAP="138" Type="2"  Text="Holy Maiden’s Soul"  TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="15"  PosY="233" />
+    <NPC IDMAP="138" Type="2"  Text="Holy Maiden’s Soul"  TextInfo="NPC Support BUFF"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="19"  PosY="237" />
+    <NPC IDMAP="138" Type="8"  Text="Giant"               TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="83"  PosY="213" />
+    <NPC IDMAP="138" Type="8"  Text="Thunder Lich"        TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="108" PosY="98" />
+    <NPC IDMAP="138" Type="8"  Text="Spider"              TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="137" PosY="197" />
+    <NPC IDMAP="138" Type="8"  Text="Poison Bull Fighter" TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="151" PosY="226" />
+    <NPC IDMAP="138" Type="8"  Text="Budge Dragon"        TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="55"  PosY="127" />
+    <NPC IDMAP="138" Type="8"  Text="Spider"              TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="50"  PosY="109" />
+    <NPC IDMAP="138" Type="8"  Text="Giant"               TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="63"  PosY="78" />
+    <NPC IDMAP="138" Type="12" Text="Gatekeeper Titus"    TextInfo="Duel PvP"                ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="120" PosY="110" />
+	<NPC IDMAP="138" Type="14" Text="Pastor Delbin"       TextInfo="Quest Class"             ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="142" PosY="119" />
+    <NPC IDMAP="138" Type="13" Text="Beast Trainer"       TextInfo="Beast Trainer"           ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="132" PosY="142" />
+
+
+
+
+
+    <NPC IDMAP="82" Type="6" Text="Amy"                   TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="126" PosY="44" />
+    <NPC IDMAP="82" Type="4" Text="Bas"                   TextInfo="Item Storage"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="136" PosY="23" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="152" PosY="59" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="200" PosY="15" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="243" PosY="30" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="90"  PosY="17" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="82"  PosY="61" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="72"  PosY="11" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="48"  PosY="11" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="50"  PosY="57" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="10"  PosY="37" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="241" PosY="51" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="232" PosY="11" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="12"  PosY="9" />
+    <NPC IDMAP="82" Type="8" Text="Khazra"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="162" PosY="10" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="65"  PosY="88" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84"  PosY="96" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="109" PosY="79" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="157" PosY="85" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="167" PosY="129" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="192" PosY="128" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="217" PosY="134" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="241" PosY="108" />
+    <NPC IDMAP="82" Type="8" Text="Belial"                TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="243" PosY="86" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="209" PosY="158" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="233" PosY="180" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="211" PosY="208" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="37"  PosY="196" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="53"  PosY="218" />
+    <NPC IDMAP="82" Type="8" Text="Andariel"              TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="91"  PosY="202" />
+    <NPC IDMAP="82" Type="22" Text="Lord of Darkness"     TextInfo="Event World Boss"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="171" PosY="239" />
+    <NPC IDMAP="82" Type="22" Text="Lord of Darkness"     TextInfo="Event World Boss"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="120" PosY="210" />
+    <NPC IDMAP="82" Type="22" Text="Lord of Darkness"     TextInfo="Event World Boss"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="168" PosY="209" />
+    <NPC IDMAP="83" Type="4" Text="Bas"                   TextInfo="Item Storage"            ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="136" PosY="140" />
+    <NPC IDMAP="83" Type="6" Text="Amy"                   TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="112" PosY="131" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="164" PosY="22" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="203" PosY="29" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="230" PosY="53" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="241" PosY="92" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="125" PosY="22" />
+    <NPC IDMAP="83" Type="8" Text="DragonSlave"           TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="74"  PosY="27" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="90"  PosY="103" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="35"  PosY="57" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="26"  PosY="115" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="30"  PosY="147" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="51"  PosY="181" />
+    <NPC IDMAP="83" Type="8" Text="FireTurtle"            TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="45"  PosY="214" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="161" PosY="163" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="235" PosY="160" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="89"  PosY="229" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="128" PosY="225" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="188" PosY="232" />
+    <NPC IDMAP="83" Type="8" Text="NinjaWarrior"          TextInfo="Monster Hunting Spot"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="239" PosY="229" />
+    <NPC IDMAP="83" Type="22" Text="Mine Porter"          TextInfo="Event World Boss"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="192" PosY="190" />
+    <NPC IDMAP="83" Type="22" Text="Mine Porter"          TextInfo="Event World Boss"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="60"  PosY="119" />
+    <NPC IDMAP="83" Type="22" Text="Mine Porter"          TextInfo="Event World Boss"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="204" PosY="115" />
+    <NPC IDMAP="79" Type="6" Text="Liaman"                TextInfo="General Merchant"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="82" PosY="127" />
+    <NPC IDMAP="79" Type="18" Text="Chaos Mix"            TextInfo="Chaos Mix Item"          ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="138" PosY="139" />
+
+    <NPC IDMAP="85" Type="4"  Text="Bas"                  TextInfo="Sand Holds Items"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84" PosY="193" />
+    <NPC IDMAP="85" Type="19" Text="Chaos"                TextInfo="Quest Dungeon"           ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="100" PosY="201" />
+    <NPC IDMAP="85" Type="18" Text="Chaos Mix"            TextInfo="Chaos Mix Item"          ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="95" PosY="202" />
+
+
+
+    <NPC IDMAP="91" StageIndex="0"  ClearStageIndex="1"  Type="3" Text="Kanturu Dungeon" TextInfo="Eternal Conflict" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="44"  PosY="233" />
+    <NPC IDMAP="91" StageIndex="1"  ClearStageIndex="2"  Type="3" Text="Kanturu Dungeon" TextInfo="Shadow Gate"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="64"  PosY="234" />
+    <NPC IDMAP="91" StageIndex="2"  ClearStageIndex="3"  Type="3" Text="Kanturu Dungeon" TextInfo="Iron Vanguard"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="104" PosY="239" />
+    <NPC IDMAP="91" StageIndex="3"  ClearStageIndex="4"  Type="3" Text="Kanturu Dungeon" TextInfo="Dark Legion"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="140" PosY="222" />
+    <NPC IDMAP="91" StageIndex="4"  ClearStageIndex="5"  Type="3" Text="Kanturu Dungeon" TextInfo="Crimson Tide"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="162" PosY="197" />
+    <NPC IDMAP="91" StageIndex="5"  ClearStageIndex="6"  Type="3" Text="Kanturu Dungeon" TextInfo="Forsaken Army"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="199" PosY="181" />
+    <NPC IDMAP="91" StageIndex="6"  ClearStageIndex="7"  Type="3" Text="Kanturu Dungeon" TextInfo="Death March"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="223" PosY="150" />
+    <NPC IDMAP="91" StageIndex="7"  ClearStageIndex="8"  Type="3" Text="Kanturu Dungeon" TextInfo="Blood Siege"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="226" PosY="113" />
+    <NPC IDMAP="91" StageIndex="8"  ClearStageIndex="9"  Type="3" Text="Kanturu Dungeon" TextInfo="Nightmare Gate"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="230" PosY="105" />
+    <NPC IDMAP="91" StageIndex="9"  ClearStageIndex="10" Type="3" Text="Kanturu Dungeon" TextInfo="Soul Reaper"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="229" PosY="83"  />
+    <NPC IDMAP="91" StageIndex="10" ClearStageIndex="11" Type="3" Text="Kanturu Dungeon" TextInfo="Dark Overlord"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="227" PosY="63"  />
+    <NPC IDMAP="91" StageIndex="11" ClearStageIndex="12" Type="3" Text="Kanturu Dungeon" TextInfo="Abyss Horde"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="221" PosY="44"  />
+    <NPC IDMAP="91" StageIndex="12" ClearStageIndex="13" Type="3" Text="Kanturu Dungeon" TextInfo="Shadow Crypt"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="171" PosY="39"  />
+    <NPC IDMAP="91" StageIndex="13" ClearStageIndex="14" Type="3" Text="Kanturu Dungeon" TextInfo="Blood Tyrant"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="173" PosY="43"  />
+    <NPC IDMAP="91" StageIndex="14" ClearStageIndex="15" Type="3" Text="Kanturu Dungeon" TextInfo="Doom Bringers"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="176" PosY="39"  />
+    <NPC IDMAP="91" StageIndex="15" ClearStageIndex="16" Type="3" Text="Kanturu Dungeon" TextInfo="The Reckoning"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="176" PosY="39"  />
+    <NPC IDMAP="91" StageIndex="16" ClearStageIndex="-1" Type="7" Text="Kanturu Dungeon" TextInfo="Bulgasal"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="176" PosY="39"  />
+
+    <NPC IDMAP="93" StageIndex="0"  ClearStageIndex="1"  Type="3" Text="Karutan Dungeon" TextInfo="Desert Awakening"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="179" PosY="117" />
+    <NPC IDMAP="93" StageIndex="1"  ClearStageIndex="2"  Type="3" Text="Karutan Dungeon" TextInfo="Sand Vanguard"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="193" PosY="154" />
+    <NPC IDMAP="93" StageIndex="2"  ClearStageIndex="3"  Type="3" Text="Karutan Dungeon" TextInfo="Scorched Legion"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="223" PosY="155" />
+    <NPC IDMAP="93" StageIndex="3"  ClearStageIndex="4"  Type="3" Text="Karutan Dungeon" TextInfo="Dune Siege"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="206" PosY="191" />
+    <NPC IDMAP="93" StageIndex="4"  ClearStageIndex="5"  Type="3" Text="Karutan Dungeon" TextInfo="Burning Sands"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="187" PosY="174" />
+    <NPC IDMAP="93" StageIndex="5"  ClearStageIndex="6"  Type="3" Text="Karutan Dungeon" TextInfo="Cursed Dunes"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="151" PosY="166" />
+    <NPC IDMAP="93" StageIndex="6"  ClearStageIndex="7"  Type="3" Text="Karutan Dungeon" TextInfo="Sandstorm Horde"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="127" PosY="168" />
+    <NPC IDMAP="93" StageIndex="7"  ClearStageIndex="8"  Type="3" Text="Karutan Dungeon" TextInfo="Blood Dunes"        ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="107" PosY="189" />
+    <NPC IDMAP="93" StageIndex="8"  ClearStageIndex="9"  Type="3" Text="Karutan Dungeon" TextInfo="Ancient Wrath"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="81"  PosY="176" />
+    <NPC IDMAP="93" StageIndex="9"  ClearStageIndex="10" Type="3" Text="Karutan Dungeon" TextInfo="Desert Overlord"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="81"  PosY="176" />
+    <NPC IDMAP="93" StageIndex="10" ClearStageIndex="11" Type="3" Text="Karutan Dungeon" TextInfo="Tomb Raiders"       ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="38"  PosY="170" />
+    <NPC IDMAP="93" StageIndex="11" ClearStageIndex="12" Type="3" Text="Karutan Dungeon" TextInfo="Crypt of Souls"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="35"  PosY="140" />
+    <NPC IDMAP="93" StageIndex="12" ClearStageIndex="13" Type="3" Text="Karutan Dungeon" TextInfo="Tomb Guardian"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="39"  PosY="126" />
+    <NPC IDMAP="93" StageIndex="13" ClearStageIndex="14" Type="3" Text="Karutan Dungeon" TextInfo="Forsaken Ruins"     ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="40"  PosY="115" />
+    <NPC IDMAP="93" StageIndex="14" ClearStageIndex="15" Type="3" Text="Karutan Dungeon" TextInfo="Cursed Catacombs"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="41"  PosY="97"  />
+    <NPC IDMAP="93" StageIndex="15" ClearStageIndex="16" Type="3" Text="Karutan Dungeon" TextInfo="Abyss of Karutan"   ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="37"  PosY="71"  />
+    <NPC IDMAP="93" StageIndex="16" ClearStageIndex="17" Type="3" Text="Karutan Dungeon" TextInfo="Twin Warlords"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="86"  PosY="72"  />
+    <NPC IDMAP="93" StageIndex="17" ClearStageIndex="18" Type="3" Text="Karutan Dungeon" TextInfo="Bone Crusher Army"  ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="86"  PosY="86"  />
+    <NPC IDMAP="93" StageIndex="18" ClearStageIndex="19" Type="3" Text="Karutan Dungeon" TextInfo="Last Stand"         ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="65"  PosY="119" />
+    <NPC IDMAP="93" StageIndex="19" ClearStageIndex="-1" Type="7" Text="Karutan Dungeon" TextInfo="DevilLord"          ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="98"  PosY="119" /> -->
+
+</MiniMap>
