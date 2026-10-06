@@ -1,0 +1,54 @@
+<NpcQuestItemRenderConfig>
+
+    <!-- TRACKED -->
+    <Item Type="12" Index="15" OffsetX="-3" OffsetY="-5" Scale="1.2" UI="TRACKED"/>
+    <Item Type="12" Index="137" OffsetX="2" OffsetY="1" Scale="1.2" UI="TRACKED"/>
+    <Item Type="14" Index="141" OffsetX="7" OffsetY="2" Scale="1.6" UI="TRACKED"/>
+    <Item Type="12" Index="30" OffsetX="0" OffsetY="0" Scale="1.2" UI="TRACKED"/>
+    <Item Type="14" Index="300" OffsetX="-2" OffsetY="0" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="301" OffsetX="-2" OffsetY="0" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="302" OffsetX="-2" OffsetY="0" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="303" OffsetX="-2" OffsetY="0" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="304" OffsetX="-2" OffsetY="0" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="305" OffsetX="-2" OffsetY="0" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="306" OffsetX="-2" OffsetY="0" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="307" OffsetX="-2" OffsetY="0" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="11"  OffsetX="-3" OffsetY="7" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="14"  OffsetX="-3" OffsetY="7" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="13"  OffsetX="-3" OffsetY="10" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="16"  OffsetX="-3" OffsetY="10" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="22"  OffsetX="-3" OffsetY="10" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="122"  OffsetX="6" OffsetY="7" Scale="1" UI="TRACKED"/>
+    <Item Type="14" Index="121"  OffsetX="6" OffsetY="7" Scale="1" UI="TRACKED"/>
+    <Item Type="12" Index="70"  OffsetX="-4" OffsetY="0" Scale="1" UI="TRACKED"/>
+    <Item Type="12" Index="71"  OffsetX="-4" OffsetY="0" Scale="1" UI="TRACKED"/>
+    <Item Type="12" Index="72"  OffsetX="-4" OffsetY="0" Scale="1" UI="TRACKED"/>
+
+
+
+    <!-- QUEST -->
+    <Item Type="12" Index="15" OffsetX="-4" OffsetY="0" Scale="1.0" UI="QUEST"/>
+    <Item Type="12" Index="137" OffsetX="0" OffsetY="4" Scale="1.0" UI="QUEST"/>
+    <Item Type="12" Index="30" OffsetX="0" OffsetY="5" Scale="1.2" UI="QUEST"/>
+    <Item Type="14" Index="141" OffsetX="5" OffsetY="5" Scale="1.2" UI="QUEST"/>
+    <Item Type="14" Index="300" OffsetX="-2" OffsetY="0" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="301" OffsetX="-2" OffsetY="0" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="302" OffsetX="-2" OffsetY="0" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="303" OffsetX="-2" OffsetY="0" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="304" OffsetX="-2" OffsetY="0" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="305" OffsetX="-2" OffsetY="0" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="306" OffsetX="-2" OffsetY="0" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="307" OffsetX="-2" OffsetY="0" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="11"  OffsetX="-3" OffsetY="7" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="14"  OffsetX="-3" OffsetY="7" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="13"  OffsetX="-3" OffsetY="10" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="16"  OffsetX="-3" OffsetY="10" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="22"  OffsetX="-3" OffsetY="10" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="122"  OffsetX="6" OffsetY="7" Scale="1" UI="QUEST"/>
+    <Item Type="14" Index="121"  OffsetX="6" OffsetY="7" Scale="1" UI="QUEST"/>
+    <Item Type="12" Index="70"  OffsetX="-3" OffsetY="0" Scale="1" UI="QUEST"/>
+    <Item Type="12" Index="71"  OffsetX="-3" OffsetY="0" Scale="1" UI="QUEST"/>
+    <Item Type="12" Index="72"  OffsetX="-3" OffsetY="0" Scale="1" UI="QUEST"/>
+
+
+</NpcQuestItemRenderConfig>

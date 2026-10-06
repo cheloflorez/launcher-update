@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NpcIconRenderer Enable="1">
+
+	 <Npc MonsterIndex="650" EffectSpeed="1" Icon="906" />
+	 <Npc MonsterIndex="651" EffectSpeed="1" Icon="911" />
+	 <Npc MonsterIndex="652" EffectSpeed="1" Icon="917" />
+
+</NpcIconRenderer>

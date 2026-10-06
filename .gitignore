@@ -1,0 +1,7 @@
+# Llaves privadas / claves de actualización - NO subir
+UpdateKeys/
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
