@@ -1,0 +1,4 @@
+# No modificar los finales de linea de NINGUN archivo.
+# Los archivos se suben byte a byte tal cual estan en disco,
+# para que los hashes sha256 del manifest coincidan tras la descarga.
+* -text
