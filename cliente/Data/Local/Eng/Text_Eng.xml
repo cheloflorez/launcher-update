@@ -847,8 +847,8 @@
     <message id="844" text="I heard the creatures in Blood Castle are vicious. And you're going there? Quite a brave soul, you are." />
     <message id="845" text="The Archangel is fighting the evil creatures of Kundun in the Blood Castle alone! If you are indeed as brave as you say you are, go help out the Archangel!" />
     <message id="846" text="Messenger of Archangel" />
-    <message id="847" text="Castle %d (level %d-%d)" />
-    <message id="848" text="Castle %d (level %d-%d)" />
+    <message id="847" text="Castle %d (Reset %d-%d)" />
+    <message id="848" text="Castle %d (Reset %d-%d)" />
     <message id="849" text="Archangel" />
     <message id="850" text="You can enter %s now." />
     <message id="851" text="After %d minutes you may enter %s." />
