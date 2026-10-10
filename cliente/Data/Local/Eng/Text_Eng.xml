@@ -645,8 +645,8 @@
     <message id="642" text="The gate of Devil Square is closing down (%d seconds remaining)" />
     <message id="643" text="You can enter Devil Square now!!" />
     <message id="644" text="Devil Square will open in %d minutes." />
-    <message id="645" text="The %d Square (%d-%d reset)" />
-    <message id="646" text="The %d Square (%d-%d level)" />
+    <message id="645" text="The %d Square (Reset %d-%d)" />
+    <message id="646" text="The %d Square (Reset %d-%d)" />
     <message id="647" text="Congratulations!" />
     <message id="648" text="%s, Your bravery is proven in Devil Square." />
     <message id="649" text="Must be over level 10 to combine the invitation to Devil Square." />
