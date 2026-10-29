@@ -348,11 +348,11 @@
         <Property BuffType="0" NoticeType="0" ClearType="1"/>
     </BuffEffect>
 
-    <BuffEffect Index="89" Group="14" ItemId="14:97" Name="Scroll of Battle" Description="Critical damage increase at 20%.">
+    <BuffEffect Index="89" Group="14" ItemId="14:97" Name="Scroll of Battle" Description="Critical damage rate : 10%.">
         <Property BuffType="0" NoticeType="1" ClearType="1"/>
     </BuffEffect>
 
-    <BuffEffect Index="90" Group="14" ItemId="14:98" Name="Scroll of Strength" Description="Excellent damage increase at 20%.">
+    <BuffEffect Index="90" Group="14" ItemId="14:98" Name="Scroll of Strength" Description="Excellent damage rate : 10%.">
         <Property BuffType="0" NoticeType="1" ClearType="1"/>
     </BuffEffect>
 
