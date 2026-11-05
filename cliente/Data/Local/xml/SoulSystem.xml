@@ -1,4 +1,4 @@
-<SoulSystem Enable="1" ResetRewardCount="1" GResetRewardCount="10" SubElementMode="0">
+<SoulSystem Enable="1" ResetRewardCount="0" GResetRewardCount="10" SubElementMode="0">
     <ResetSettings PriceDC="100" ItemId="14:13" ItemLevel="-1" ItemCount="15"/>
     <RewardSettings>
         <Type Id="0" Name="Attack">
