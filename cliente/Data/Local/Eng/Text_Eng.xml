@@ -6,9 +6,9 @@
     <message id="3"  text="You have been disconnected from the server." />
     <message id="4"  text="Install the latest graphics card driver. " />
     <message id="5"  text="[error1] Hacking or computer virus test has not been completely finished. V3 or Birobot by Hawoori Corp. is needed to finish the test." />
-    <message id="6"  text="[error2] The hacking tool checking program has not been successfully downloaded. Please try connecting again in a moment. \n\n If you continue to experience the same problem, feel free to contact our customer service center through our website at http://RETROMUONLINE.COM" />
-    <message id="7"  text="[error3] NPX.DLL registration error, required files are missing for running nProtect. Please download np_setup.exe from Muonline.\n\n If you continue to experience the same problem, please contact our customer service center through our website at http://RETROMUONLINE.COM." />
-    <message id="8"  text="[error4] An error has occurred in the program. \n\n If you continue to experience the same problem, please contact our customer service center through our website at http://RETROMUONLINE.COM" />
+    <message id="6"  text="[error2] The hacking tool checking program has not been successfully downloaded. Please try connecting again in a moment. \n\n If you continue to experience the same problem, feel free to contact our customer service center through our website at https://RETROMUONLINE.COM" />
+    <message id="7"  text="[error3] NPX.DLL registration error, required files are missing for running nProtect. Please download np_setup.exe from Muonline.\n\n If you continue to experience the same problem, please contact our customer service center through our website at https://RETROMUONLINE.COM." />
+    <message id="8"  text="[error4] An error has occurred in the program. \n\n If you continue to experience the same problem, please contact our customer service center through our website at https://RETROMUONLINE.COM" />
     <message id="9"  text="[error5] User has selected the exit button." />
     <message id="10" text="[error6] No.%d error!!! Findhack.zip needs to be installed in MU folder." />
     <message id="11" text="Data error" />
@@ -16,7 +16,7 @@
     <message id="13" text="Upgrade has failed. Please restart the game." />
     <message id="14" text="Game will now restart in order to complete the upgrade." />
     <message id="15" text="[error8] Failed connecting to Findhack updating server. If this problem continues to occur, install findhack.exe from Muonline.com utility download page." />
-    <message id="16" text="[error9] A hacking tool has been found. If you are not using a hacking tool, contact our customer service center through our website at support.http://RETROMUONLINE.ONLINE" />
+    <message id="16" text="[error9] A hacking tool has been found. If you are not using a hacking tool, contact our customer service center through our website at support.https://RETROMUONLINE.ONLINE" />
     <message id="17" text="[error10] Cannot be written on the registry. Can cause an expected malfunction." />
     <message id="18" text="Tahoma" />
     <message id="19" text="Event" />
@@ -437,7 +437,7 @@
     <message id="434" text="This is a blocked character" />
     <message id="435" text="Only players age 18 and over are permitted to connect to this server" />
     <message id="436" text="This account is item blocked." />
-    <message id="437" text="Please check on http://RETROMUONLINE.COM site" />
+    <message id="437" text="Please check on https://RETROMUONLINE.COM site" />
     <message id="438" text="You cannot remove your character since the guild cannot be removed" />
     <message id="439" text="The character is item blocked" />
     <message id="440" text="Incorrect password" />
@@ -2655,7 +2655,7 @@
     <message id="2882" text="Silver Box" />
     <message id="2883" text="W Coin : %s" />
     <message id="2884" text="Goblin Point : %s" />
-    <message id="2885" text="Retro Point : %s" />
+    <message id="2885" text="Retro Coin : %s" />
     <message id="2886" text="Buy" />
     <message id="2887" text="Use" />
     <message id="2888" text="Storage" />
@@ -2903,8 +2903,8 @@
     <message id="3141" text="Item Drop 100%%" />
     <message id="3142" text="Stamina will not decrease temporarily." />
     <message id="3143" text="(in use)" />
-    <message id="3144" text="" />
-    <message id="3145" text="---" />
+    <message id="3144" text="Retro Coin" />
+    <message id="3145" text="Retro Coin : %s" />
     <message id="3146" text="You need more %%s to purchase this item." />
     <message id="3147" text="Cannot apply in Battle Zone." />
     <message id="3148" text="Exceeded maximum amount of Zen you can possess." />
@@ -3609,7 +3609,7 @@
 	<message id="3890" text="RETRO SHOP" />	
 	<message id="3892" text="W Coin :" />
 	<message id="3893" text="Retro Bonuses :" />
-	<message id="3894" text="Goblin Coin :" />
+	<message id="3894" text="Goblin Point :" />
 	<message id="3895" text="Event Entries: Unlimited" />
     <message id="3896" text="Your Account Is Not Allowed To Join" />
     <message id="3897" text="No Remaining Entries Today (%d/%d)" />
