@@ -200,7 +200,6 @@
 <NPC IDMAP="8" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="83" PosY="195" />
 <NPC IDMAP="8" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="115" PosY="204" />
 <NPC IDMAP="8" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="173" PosY="204" />
-<NPC IDMAP="8" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="157" PosY="161" />
 <NPC IDMAP="8" Type="22" Text="Death Beam Knight"  TextInfo="Quest 3 Monster Boss"    ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="157" PosY="211" />
 
 
