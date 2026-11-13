@@ -1231,7 +1231,7 @@
     <message id="1231" text="%s zen is lacking to recover life." />
     <message id="1232" text="%s zen is required to recover life." />
     <message id="1233" text="No %s." />
-    <message id="1234" text="Increases pet attack as %d%%" />
+    <message id="1234" text="" />
     <message id="1235" text="Crest of monarch" />
     <message id="1236" text="Used in combining Cape of Lord & Warrior's Cloak" />
     <message id="1237" text="Check the details in pet information window" />
