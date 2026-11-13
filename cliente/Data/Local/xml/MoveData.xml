@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
 <MoveData>
-    <Move Id="92" Name="Retro Land"  Key="Retro Land" Zen="10000" MinLevel="400" Gate="354" MaxLevel="400"/>
     <Move Id="2"  Name="Lorencia" Key="Lorencia" Zen="2000" MinLevel="10" Gate="17" MaxLevel="400"/>
     <Move Id="3"  Name="Noria" Key="Noria" Zen="2000" MinLevel="10" Gate="27" MaxLevel="400"/>
     <Move Id="31" Name="Elveland" Key="Elbeland" Zen="2000" MinLevel="10" Gate="267" MaxLevel="400"/>
@@ -27,7 +26,7 @@
     <Move Id="25" Name="Aida 1" Key="Aida 1" Zen="8500" MinLevel="150" Gate="119" MaxLevel="400"/>
     <Move Id="27" Name="Aida 2" Key="Aida 2" Zen="8500" MinLevel="170" Gate="140" MaxLevel="400"/>
     <Move Id="23" Name="Icarus" Key="Icarus" Zen="10000" MinLevel="170" Gate="63" MaxLevel="400"/>
-	<Move Id="26" Name="Crywolf" Key="Crywolf" Zen="8500" MinLevel="150" Gate="118" MaxLevel="400"/>
+	<Move Id="26" Name="Crywolf" Key="Crywolf" Zen="8500" MinLevel="190" Gate="118" MaxLevel="400"/>
     <Move Id="28" Name="KanturuRuins 1" Key="Kanturu_ruin 1" Zen="9000" MinLevel="170" Gate="138" MaxLevel="400"/>
     <Move Id="29" Name="KanturuRuins 2" Key="Kanturu_ruin 2" Zen="9000" MinLevel="190" Gate="141" MaxLevel="400"/>
     <Move Id="45" Name="KanturuRuins 3" Key="Kanturu_ruin 3" Zen="15000" MinLevel="210" Gate="334" MaxLevel="400"/>
