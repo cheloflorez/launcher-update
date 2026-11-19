@@ -84,7 +84,15 @@
 <NPC IDMAP="2" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="220" PosY="164" />
 <NPC IDMAP="2" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="193" PosY="144" />
 <NPC IDMAP="2" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="108" PosY="191" />
-<NPC IDMAP="2" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="9" PosY="187" />
+<NPC IDMAP="2" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="161" PosY="21" />
+<NPC IDMAP="2" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="158" PosY="60" />
+<NPC IDMAP="2" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="225" PosY="122" />
+<NPC IDMAP="2" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="182" PosY="117" />
+<NPC IDMAP="2" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="136" PosY="106" />
+<NPC IDMAP="2" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="107" PosY="54" />
+<NPC IDMAP="2" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="73" PosY="113" />
+
+
 
 
 <!-- Noria -->
