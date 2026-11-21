@@ -71,6 +71,7 @@
 <NPC IDMAP="2" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="172" PosY="44" />
 <NPC IDMAP="2" Type="6" Text="Natasha the Firecracker Merchan" TextInfo="Firecracker" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="32" PosY="31" />
 <NPC IDMAP="2" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="218" PosY="63" />
+<NPC IDMAP="2" Type="15" Text="Deruvish"    TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="226" PosY="56" />
 
 
 
@@ -126,6 +127,8 @@
 <NPC IDMAP="4" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="203" PosY="77" />
 <NPC IDMAP="4" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="206" PosY="82" />
 <NPC IDMAP="4" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="202" PosY="73" />
+<NPC IDMAP="4" Type="15" Text="Deruvish"    TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="212" PosY="82" />
+
 
 
 <NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="197" PosY="103" />
@@ -156,6 +159,8 @@
 <NPC IDMAP="7" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="15" PosY="12" />
 <NPC IDMAP="7" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="16" PosY="16" />
 <NPC IDMAP="7" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="24" PosY="25" />
+<NPC IDMAP="7" Type="15" Text="Deruvish"    TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="17" PosY="19" />
+
 
 <NPC IDMAP="7" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="49" PosY="10" />
 <NPC IDMAP="7" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="63" PosY="13" />
@@ -184,6 +189,8 @@
 <NPC IDMAP="8" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="205" PosY="62" />
 <NPC IDMAP="8" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="191" PosY="73" />
 <NPC IDMAP="8" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="184" PosY="61" />
+<NPC IDMAP="8" Type="15" Text="Deruvish"    TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="187" PosY="66" />
+
 
 
 <NPC IDMAP="8" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="189" PosY="115" />
@@ -236,6 +243,8 @@
 <NPC IDMAP="33" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="82" PosY="15" />
 <NPC IDMAP="33" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="89" PosY="13" />
 <NPC IDMAP="33" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="83" PosY="15" />
+<NPC IDMAP="33" Type="15" Text="Deruvish"    TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="80" PosY="7" />
+
 
 
 <NPC IDMAP="33" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="126" PosY="27" />
@@ -280,6 +289,8 @@
 <NPC IDMAP="37" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="33" PosY="215" />
 <NPC IDMAP="37" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="27" PosY="216" />
 <NPC IDMAP="37" Type="2" Text="Shadow Phantom Soldier" TextInfo="NPC Support BUFF" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="35" PosY="216" />
+<NPC IDMAP="37" Type="15" Text="Deruvish"    TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="30" PosY="212" />
+
 
 
 <NPC IDMAP="37" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="40" PosY="233" />
@@ -307,6 +318,11 @@
 <NPC IDMAP="37" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="126" PosY="162" />
 
 <!-- Kanturu Remain -->
+
+<NPC IDMAP="38" Type="15" Text="Deruvish"    TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="75" PosY="107" />
+<NPC IDMAP="38" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="81" PosY="108" />
+
+
 
 
 <NPC IDMAP="38" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="100" PosY="79" />
@@ -362,6 +378,8 @@
 
 <NPC IDMAP="57" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="213" PosY="209" />
 <NPC IDMAP="57" Type="4" Text="Safety Guardian" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="211" PosY="209" />
+<NPC IDMAP="57" Type="15" Text="Deruvish"    TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="216" PosY="210" />
+
 
 
 <NPC IDMAP="57" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="172" PosY="213" />
@@ -393,6 +411,8 @@
 <NPC IDMAP="80" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="123" PosY="132" />
 <NPC IDMAP="80" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="122" PosY="96" />
 <NPC IDMAP="80" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="157" PosY="127" />
+<NPC IDMAP="80" Type="15" Text="Deruvish"    TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="129" PosY="132" />
+
 
 
 <NPC IDMAP="80" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="158" PosY="156" />
@@ -430,6 +450,12 @@
 <NPC IDMAP="81" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="123" PosY="82" />
 <NPC IDMAP="81" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="137" PosY="109" />
 <NPC IDMAP="81" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="135" PosY="155" />
+
+<!-- SWAMP -->
+
+<NPC IDMAP="56" Type="6" Text="Potion Girl Amy" TextInfo="General Merchant" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="134" PosY="110" />
+<NPC IDMAP="56" Type="4" Text="Safety Guardian" TextInfo="Item Storage" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="139" PosY="113" />
+<NPC IDMAP="56" Type="15" Text="Deruvish"    TextInfo="Quest System Event"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="134" PosY="107" />
 
 
    <!-- <NPC IDMAP="104" Type="10" Text="Lesnar Lorencia"     TextInfo="Quest System Daily"      ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="13" PosY="239" />
