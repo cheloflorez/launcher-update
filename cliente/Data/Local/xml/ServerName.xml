@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <server_names>
   <server code="0" name="RetroMu" pos="0" seq="0">
-    <sub index="0" desc="PVP" color="FF5A5A"/>
-    <sub index="1" desc="Non-PVP" color="FFFF79"/>
-    <sub index="2" desc="Gold" color="FFA500"/>
+    <sub index="1" desc="PVP - Boss" color="FF2A2A"/>
+    <sub index="2" desc="PVP" color="FF5A5A"/>
+    <sub index="3" desc="Non-PVP" color="FFFF79"/>
+    <sub index="4" desc="Gold" color="FFA500"/>
   </server>
 </server_names>

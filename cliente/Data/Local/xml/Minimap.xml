@@ -146,13 +146,20 @@
 <NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="54" PosY="26" />
 <NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="54" PosY="9" />
 <NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="14" PosY="11" />
-<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="59" PosY="96" />
+<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="53" PosY="92" />
 <NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="28" PosY="106" />
 <NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="15" PosY="103" />
-<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="58" PosY="120" />
+<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="53" PosY="115" />
 <NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="34" PosY="132" />
-<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="55" PosY="139" />
-<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="21" PosY="171   " />
+<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="52" PosY="135" />
+<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="21" PosY="171" />
+
+<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84" PosY="194" />
+<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84" PosY="214" />
+<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="99" PosY="218" />
+<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="84" PosY="106" />
+<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="86" PosY="133" />
+<NPC IDMAP="4" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="119" PosY="132" />
 
 <!-- Atlans -->
 
@@ -372,7 +379,8 @@
 <NPC IDMAP="51" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="203" PosY="49" />
 <NPC IDMAP="51" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="206" PosY="24" />
 <NPC IDMAP="51" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="172" PosY="30" />
-<NPC IDMAP="51" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="175" PosY="27" />
+<NPC IDMAP="51" Type="8" Text="Spot" TextInfo="Monster Hunting Spot" ColorText="0xFFD700FF" ColorTextInfo="0xFF9400D3" PosX="129" PosY="29" />
+
 
 <!-- Raklion -->
 

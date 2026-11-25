@@ -3066,8 +3066,8 @@
     <message id="3304" text="Jewel used for reinforcing a Lucky Item." />
     <message id="3305" text="Jewel used for repairing a Lucky Item." />
     <message id="3306" text="Jewel cannot be used on durability 0 item (repair)." />
-    <message id="3307" text="Combine : Click Regular Combination " />
-    <message id="3308" text="Disamble : Click Chaos Weapon Combination." />
+    <message id="3307" text="Combine / Disamble Jewels" />
+    <message id="3308" text="" />
     <message id="3309" text="Select a jewel to combine." />
     <message id="3310" text="Choose a 'number' button to combine." />
     <message id="3311" text="Select a jewel to dissolve." />
